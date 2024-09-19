@@ -1,4 +1,4 @@
-A mod for RimWorld
+A mod for RimWorld.
 
 
 **More info at:**
